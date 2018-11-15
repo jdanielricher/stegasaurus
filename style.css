@@ -1,0 +1,124 @@
+* {
+  border: 0;
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+}
+
+html {
+  background-color: rgb(14, 34, 25);
+}
+
+h1 {
+  font-family: "Playfair Display", serif;
+  color: greenyellow;
+}
+
+p {
+  color: greenyellow;
+}
+
+.explanation {
+  margin: auto;
+  border: 1px solid greenyellow;
+  width: 700px;
+  height: 185px;
+  padding-left: 7px;
+  padding-top: 12px;
+}
+
+.explanation a {
+  color: rgb(73, 72, 143);
+  text-decoration: none;
+}
+
+.stegasaurus {
+  color: white;
+  display: block;
+  position: relative;
+  bottom: 198px;
+  background-color: rgb(56, 46, 46);
+  border: 1px solid rgb(56, 46, 46);
+  width: 698px;
+  margin: auto;
+  padding-left: 7px;
+}
+
+img {
+  display: block;
+  margin: auto;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.interests {
+  text-decoration: underline;
+  font-weight: bold;
+  color: rgb(73, 72, 143);
+}
+
+.creative {
+  text-decoration: underline;
+  font-weight: bold;
+  color: rgb(73, 72, 143);
+}
+
+.video_games {
+  text-decoration: underline;
+  font-weight: bold;
+  color: rgb(73, 72, 143);
+}
+
+.other {
+  text-decoration: underline;
+  font-weight: bold;
+  color: rgb(73, 72, 143);
+}
+
+.boards_list {
+  color: greenyellow;
+  margin: auto;
+  border: 1px solid greenyellow;
+  width: 700px;
+  height: 290px;
+  padding-left: 7px;
+  padding-top: 30px;
+}
+
+.boards_list li {
+  width: 150px;
+}
+
+ul {
+  columns: 100px 4;
+  column-count: 4;
+  list-style-type: none;
+  overflow: hidden;
+}
+
+.boards {
+  color: rgb(255, 255, 255);
+  display: block;
+  position: relative;
+  bottom: 321px;
+  background-color: rgb(73, 72, 143);
+  border: 1px solid rgb(73, 72, 143);
+  width: 698px;
+  margin: auto;
+  padding-left: 7px;
+}
+
+footer {
+  background-color: rgb(49, 48, 48);
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 25px;
+  text-align: center;
+}
+
+footer a {
+  color: rgb(73, 72, 143);
+  text-decoration: none;
+}
