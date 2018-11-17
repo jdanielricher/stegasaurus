@@ -100,10 +100,9 @@ img {
   margin: auto;
   border: 1px solid greenyellow;
   width: 700px;
-  height: 304px;
+  height: 273px;
   padding-left: 7px;
-  padding-top: 20px;
-  padding-bottom: 14px;
+  padding-top: 40px;
 }
 
 .boards_list li {
@@ -121,12 +120,28 @@ ul {
   color: rgb(255, 255, 255);
   display: block;
   position: relative;
-  bottom: 339px;
+  bottom: 314px;
   background-color: rgb(73, 72, 143);
   border: 1px solid rgb(73, 72, 143);
   width: 698px;
   margin: auto;
   padding-left: 7px;
+}
+
+.row_1 {
+  padding-bottom: 10px;
+}
+
+.row_2 {
+  padding-bottom: 10px;
+}
+
+.row_3 {
+  padding-bottom: 10px;
+}
+
+.row_4 {
+  padding-bottom: 10px;
 }
 
 footer {
