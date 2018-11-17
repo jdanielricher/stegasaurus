@@ -1,2 +1,2 @@
 # stegasaurus
-A fictional project website to show off the CSS skills I picked up. Live at http://www.stegasaurus.online/
+A fictional website modeled after https://www.4chan.org/ to show off the CSS skills I picked up. Live at http://www.stegasaurus.online/
