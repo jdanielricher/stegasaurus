@@ -68,6 +68,8 @@ a:focus {
 }
 
 img {
+  height: 220px;
+  width: 420px;
   display: block;
   margin: auto;
   margin-top: 5px;
