@@ -2,7 +2,6 @@
   border: 0;
   padding: 0;
   margin: 0;
-  overflow: hidden;
 }
 
 html {
@@ -18,7 +17,7 @@ p {
   color: greenyellow;
 }
 
-.intro {
+.paragraph {
   margin: auto;
   border: 1px solid greenyellow;
   width: 700px;
@@ -27,7 +26,7 @@ p {
   padding-top: 35px;
 }
 
-.intro_2 {
+.sentence {
   position: relative;
   left: 5px;
   bottom: 45px;
