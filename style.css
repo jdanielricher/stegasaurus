@@ -1,17 +1,14 @@
-* {
-  border: 0;
-  padding: 0;
-  margin: 0;
-}
-
 html {
   background-color: rgb(14, 34, 25);
+  overflow-y: scroll;
 }
 
 h2 {
-  font-family: "Mali", cursive;
-  color: rgb(255,255,255);
+  font-family: "Mali", cursive, Sans-Serif;
+  font-size: 20px;
+  color: rgb(255, 255, 255);
   padding-left: 7px;
+  padding-top: 5px;
 }
 
 p {
@@ -57,13 +54,14 @@ a:focus {
 }
 
 .container_1_header {
-  color: rgb(255,255,255;
+  color: rgb(255, 255, 255);
   display: block;
   position: relative;
-  bottom: 207px;
+  bottom: 203px;
   background-color: rgb(56, 46, 46);
   border: 1px solid rgb(56, 46, 46);
-  width: 698px;
+  width: 705px;
+  height: 30px;
   margin: auto;
 }
 
@@ -124,7 +122,8 @@ ul {
   bottom: 314px;
   background-color: rgb(73, 72, 143);
   border: 1px solid rgb(73, 72, 143);
-  width: 698px;
+  width: 705px;
+  height: 30px;
   margin: auto;
 }
 
